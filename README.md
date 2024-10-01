@@ -6,7 +6,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,nodejs,express,react,jest,mysql,postgres,git,linux,ubuntu,sequelize,babel,sentry,webpack,,cypress,docker,sklearn,tensorflow,py,c,java,r" />
+    <img src="https://skillicons.dev/icons?i=html,css,nodejs,express,react,jest,mysql,postgres,git,linux,ubuntu,sequelize,babel,sentry,webpack,,cypress,docker,sklearn,tensorflow,py,c,java" />
   </a>
 </p>
 
