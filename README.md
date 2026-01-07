@@ -9,5 +9,3 @@
     <img src="https://skillicons.dev/icons?i=html,css,nodejs,express,react,jest,mysql,postgres,git,linux,ubuntu,sequelize,babel,sentry,webpack,,cypress,docker,sklearn,tensorflow,py,c,java" />
   </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srijac2&show_icons=true&locale=en&layout=compact" alt="srijac2" /></p>
